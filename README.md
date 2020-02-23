@@ -6,7 +6,7 @@
 <h1 align="center">OGP Gallery</h1>
 
 ## コンセプト
-開発者の方が利用できるOGP資料数を目指しています。  
+開発者の方が利用できるOGP資料集を目指しています。  
 [参考資料: バイラル係数を左右するOGPとマイクロブラウザ](https://gigazine.net/news/20191219-microbrowsers-are-everywhere/)
 
 ## 進捗
