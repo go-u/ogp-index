@@ -2,8 +2,8 @@
 ![](https://github.com/go-u/ogp-front/workflows/Staging/badge.svg)
 ![](https://github.com/go-u/ogp-front/workflows/Production/badge.svg) 
 
-<p align="center"><img src="./docs/logo.png" alt="OGP Gallery logo"></p>
 <h1 align="center">OGP Gallery</h1>
+<p align="center"><img src="./docs/systems.png" alt="Systems"></p>
 
 ## コンセプト
 開発者の方が利用できるOGP資料集を目指しています。  
