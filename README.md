@@ -6,7 +6,7 @@
 <p align="center"><img src="./docs/systems.jpg" alt="Systems"></p>
 
 <h1 align="center">OGP Crawler システム構成</h1>
-<p align="center"><img src="./docs/systems.jpg" alt="Systems"></p>
+<p align="center"><img src="https://github.com/go-u/ogp-crawler/blob/master/docs/systems.jpg" alt="Systems"></p>
 
 ## コンセプト
 開発者の方が利用できるシェア画像(OGP)資料集です。  
